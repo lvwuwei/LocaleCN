@@ -69,8 +69,8 @@ clear
 echo "Your VPS Language setting is changed to Chinese(Simplified)"
 echo "Reconnect to your VPS to check it"
 echo ""
-echo "Powered By zhujiboke.com "
-echo "QQ Group: 119612388"
+echo "Powered By byy3.com "
+echo "weixin : lvwuwei"
 
 # Delete self
 cd ${dir}
